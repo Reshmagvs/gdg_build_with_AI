@@ -20,5 +20,5 @@ Welcome to the **GDG Build with AI** workshop! This hands-on session is designed
 
 Click the following github link , it will navigate you to the steps you have to perform to complete this lab
 
-- [github](https://github.com/Reshmagvs/gdg_build_with_AI/blob/main/workshop_gdg_prompt_design.ipynb))
+- [github]((https://github.com/Reshmagvs/gdg_build_with_AI/blob/main/workshop_gdg_prompt_design.ipynb))
 
