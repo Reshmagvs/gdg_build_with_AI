@@ -1,4 +1,4 @@
-# 🚀 GDG Build with AI Workshop
+# 🚀 GDG Build with AI Workshop ( Volunteer )
 
 Welcome to the **GDG Build with AI** workshop! This hands-on session is designed to introduce participants to cutting-edge AI tools and technologies provided by Google.
 
