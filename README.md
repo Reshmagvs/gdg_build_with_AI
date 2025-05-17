@@ -22,3 +22,6 @@ Click the following github link , it will navigate you to the steps you have to 
 
 - [github](https://github.com/Reshmagvs/gdg_build_with_AI/blob/main/workshop_gdg_prompt_design.ipynb)
 
+[Alt!](<img width="306" alt="image" src="https://github.com/user-attachments/assets/51ef3034-43f0-4b33-b64d-8ab6baae4d3d" />
+
+
