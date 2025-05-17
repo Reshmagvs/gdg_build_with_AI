@@ -16,3 +16,5 @@ Welcome to the **GDG Build with AI** workshop! This hands-on session is designed
 - ☁️ **Using Vertex AI**  
   Discover how to build, deploy, and scale machine learning models using [Vertex AI](https://cloud.google.com/vertex-ai#common-uses).
 
+  [github](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/prompts/intro_prompt_design.ipynb)
+
